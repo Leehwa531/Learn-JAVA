@@ -4,7 +4,7 @@ class ExerciseCh2_12_9
 {
     static void Main(string[] args)
     {
-        int num = -9999999; //일련의 숫자
+        int num = -999999; //일련의 숫자
         int max = 0; //최대값
 
         Console.Write("숫자(정수)를 입력하세요.('0' 입력시 최대값 출력)\n");
